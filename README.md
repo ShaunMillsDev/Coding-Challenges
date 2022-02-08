@@ -2,6 +2,8 @@
 
 
 ### Calendars
+Source: https://youtu.be/3Q_oYDQ2whs
+
 **The Challenge:** Given two people's calendars, daily bounds, and a meeting duration, return free slots of time during which these two people could have a meeting. The daily bounds specify the time they start their day and the time they end their day. They are not available outside these bounds.
 
 Example:
